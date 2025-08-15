@@ -4,9 +4,7 @@
 
 ## Overview
 
-This project involves applying K-Means clustering to the Mall Customers dataset to group customers based on demographic and spending patterns. The objective is to identify customer segments, determine the optimal number of clusters using the Elbow Method
-
-and evaluate clustering performance with the Silhouette Score
+This project involves applying K-Means clustering to the Mall Customers dataset to group customers based on demographic and spending patterns. The objective is to identify customer segments, determine the optimal number of clusters using the Elbow Method and evaluate clustering performance with the Silhouette Score
 
 ## Dataset
 
